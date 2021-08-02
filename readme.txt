@@ -1,1 +1,1 @@
-i am deps-install program - i allow js- and -jvm languages to install clj/cljs/cljc + deps.edn libraries from github, like golang and clojure do 
+i am deps-install library - i allow js- and -jvm languages to install clj/cljs/cljc + deps.edn libraries from github, like golang and clojure do 

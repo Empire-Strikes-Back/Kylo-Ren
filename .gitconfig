@@ -1,5 +1,5 @@
 [user]
-	email = deps-install@program
+	email = deps-install@library
 	name = deps-install
 
 # git config --local include.path ../.gitconfig
